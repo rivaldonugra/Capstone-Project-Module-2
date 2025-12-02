@@ -47,5 +47,3 @@ Terdapat 17 kolom di dalam datases Airbnb Listings Bangkok, yaitu:
 5. Handling Outlier
 6. Visualisasi Data
 7. Analisis Inferensial
-
-## Kesimpulan
